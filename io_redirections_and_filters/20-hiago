@@ -1,0 +1,2 @@
+#!/bin/bash 
+echo "Chocolate Cake is Cool" | ./remove_c.sh
