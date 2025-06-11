@@ -1,0 +1,2 @@
+#!/bin/bash 
+echo "A cat can Act" | tr 'Ac' 'Ze'
