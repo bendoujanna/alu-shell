@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "Chocolate Cake is Cool" | ./remove_c.sh
+echo "We an program your personal and business faebook pages to automatially Post Daily interesting omments and pitures for you" | ./remove_c.sh
