@@ -1,3 +1,2 @@
 #!/bin/bash
-sum=$(( ${WATER#"$water#"} + ${STIR#"$stir#"} ))
-printf "%d\n" "$sum" | xargs printf "%x\n"
+eval "printf \"%${bestchol}x\n\" \$(( $water#$WATER + $stir#$STIR ))"
