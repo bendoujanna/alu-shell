@@ -1,0 +1,3 @@
+#!/bin/bash
+sum=$(( ${WATER#"$water#"} + ${STIR#"$stir#"} ))
+printf "%d\n" "$sum" | xargs printf "%x\n"
